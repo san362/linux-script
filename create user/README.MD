@@ -1,1 +1,1 @@
-INSTRUCTION TO RUN
+Just finished up a script that makes adding and deleting users a breeze! Say goodbye to manual entry and hello to streamlined efficiency. Whether you're looking to onboard new team members or remove access for departing employees, this script makes it all happen with just a few simple commands. Give it a try and let me know what you think! #scripting #automation #IT"
